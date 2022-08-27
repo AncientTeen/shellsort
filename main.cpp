@@ -100,6 +100,7 @@ int main() {
 
     auto start = high_resolution_clock::now();
     shellsort(mas, sizeof(mas) / sizeof(mas[0]));
+
     //insertionsort(&mas[0], &mas[size]);
     auto stop = high_resolution_clock::now();
 

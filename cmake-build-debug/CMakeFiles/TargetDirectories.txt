@@ -1,0 +1,3 @@
+C:/Clion/CLion 2022.2/CLionProjects/shellsort/cmake-build-debug/CMakeFiles/shellsort.dir
+C:/Clion/CLion 2022.2/CLionProjects/shellsort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Clion/CLion 2022.2/CLionProjects/shellsort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

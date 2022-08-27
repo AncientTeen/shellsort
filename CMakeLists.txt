@@ -3,4 +3,4 @@ project(shellsort)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(shellsort main.cpp)
+add_executable(shellsort main.cpp func.h)
